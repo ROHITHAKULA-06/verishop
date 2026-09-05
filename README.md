@@ -1,0 +1,2 @@
+# verishop
+shopping agent
