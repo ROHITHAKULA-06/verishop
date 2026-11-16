@@ -175,6 +175,3 @@ cd verishop-frontend
 npm run build
 ```
 
-## 📄 License
-
-No license is included. Add a `LICENSE` file before redistributing this project under an open-source license.
